@@ -33,12 +33,13 @@
             // 
             // btnHello
             // 
+            btnHello.BackColor = Color.DeepSkyBlue;
             btnHello.Location = new Point(37, 41);
             btnHello.Name = "btnHello";
             btnHello.Size = new Size(245, 82);
             btnHello.TabIndex = 0;
             btnHello.Text = "Hello";
-            btnHello.UseVisualStyleBackColor = true;
+            btnHello.UseVisualStyleBackColor = false;
             // 
             // MainForm
             // 
